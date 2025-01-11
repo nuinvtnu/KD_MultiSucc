@@ -15,7 +15,7 @@
     The dataset, sourced from SuccinSite2.0 [12] and GPSuc [10], mirrors their training and test sets to ensure consistency in model development and comparison. 
     It includes data from nine species: Homo sapiens (H.sapiens), Mus musculus (M.musculus), Escherichia coli (E.coli), Mycobacterium tuberculosis (M.tuberculosis), 
     Saccharomyces cerevisiae (S.cerevisiae), Toxoplasma gondii (T.gondii), Solanum lycopersicum (S.lycopersicum), and others.
-![https://github.com/nuinvtnu/SuccKD_MultiSpecies/blob/main/Data/dataset.PNG)](https://github.com/user-attachments/assets/f4fc287f-ac87-431b-9a5c-b0f972a7def1)
+![https://github.com/nuinvtnu/SuccKD_MultiSpecies/blob/main/Data/dataset.PNG)]
 
 
 **Model Learning**
