@@ -16,7 +16,7 @@
     It includes data from nine species: Homo sapiens (H.sapiens), Mus musculus (M.musculus), Escherichia coli (E.coli), Mycobacterium tuberculosis (M.tuberculosis), 
     Saccharomyces cerevisiae (S.cerevisiae), Toxoplasma gondii (T.gondii), Solanum lycopersicum (S.lycopersicum), and others.
 
-       ![dataset](https://github.com/user-attachments/assets/62b6edef-2c35-4b48-97b6-427eb802fbd5)
+       ![dataset](https://github.com/nuinvtnu/SuccKD_MultiSpecies/blob/main/Data/dataset.PNG)
 
 
 **Model Learning**
