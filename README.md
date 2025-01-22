@@ -1,4 +1,4 @@
-**SuccKD_MultiSpecies**: A novel approach exploiting Multi-Teacher Knowledge Distillation and Word Embedding for Cross-Species Prediction of Protein Succinylation Sites.
+**KD_MultiSucc**: A novel approach exploiting Multi-Teacher Knowledge Distillation and Word Embedding for Cross-Species Prediction of Protein Succinylation Sites.
 
 **Requirement**
 
@@ -15,7 +15,7 @@
     The dataset, sourced from SuccinSite2.0 [12] and GPSuc [10], mirrors their training and test sets to ensure consistency in model development and comparison. 
     It includes data from nine species: Homo sapiens (H.sapiens), Mus musculus (M.musculus), Escherichia coli (E.coli), Mycobacterium tuberculosis (M.tuberculosis), 
     Saccharomyces cerevisiae (S.cerevisiae), Toxoplasma gondii (T.gondii), Solanum lycopersicum (S.lycopersicum), and others.
-![https://github.com/nuinvtnu/SuccKD_MultiSpecies/blob/main/Data/dataset_pic.PNG)](https://github.com/nuinvtnu/SuccKD_MultiSpecies/blob/main/Data/dataset_pic.PNG)
+![https://github.com/nuinvtnu/KD_MultiSucc/blob/main/Data/dataset_pic.PNG)](https://github.com/nuinvtnu/KD_MultiSucc/blob/main/Data/dataset_pic.PNG)
 
 
 **Model Learning**
