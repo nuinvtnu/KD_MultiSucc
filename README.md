@@ -26,15 +26,15 @@
   Model saved and named: KD_MultiSucc.h5. You can use KD_MultiSucc.h5 in the Model folder for predicting and independent testing.
   Independent test and predict files are located in the Code_KD_MultiSucc_Generic_predict_Species folder:
 
-      No. Codes using KD_MultiSucc.h5 model to predict nine species	    Species
+      No. Codes using KD_MultiSucc.h5 model to predict nine species	        Species
       1	  predict_H.Sapien_from_Generic.ipynb	                        H.sapiens
-      2	  predict_H.capsulatum_from_Generic.ipynb	                    H.capsulatum
+      2	  predict_H.capsulatum_from_Generic.ipynb	                   H.capsulatum
       3	  predict_M.musculus_from_Generic.ipynb	                        M.musculus
-      4	  predict_E.coli_from_Generic.ipynb	                            E.coli
-      5	  predict_M.tuberculosis_from_Generic.ipynb	                    M.tuberculosis
-      6	  predict_S. cerevisiae_from_Generic.ipynb	                    S.cerevisiae
+      4	  predict_E.coli_from_Generic.ipynb	                           E.coli
+      5	  predict_M.tuberculosis_from_Generic.ipynb	                   M.tuberculosis
+      6	  predict_S. cerevisiae_from_Generic.ipynb	                   S.cerevisiae
       7	  predict_T.gondii_from_Generic.ipynb	                        T.gondii
-      8	  predict_S.lycopersicum_from_Generic.ipynb	                    S.lycopersicum
+      8	  predict_S.lycopersicum_from_Generic.ipynb	                   S.lycopersicum
       9	  predict_T.eastivum_from_Generic.ipynb	                        T.aestivum
 
 **Contact**
