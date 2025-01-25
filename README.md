@@ -23,8 +23,8 @@
   We use Google colab pro buid this model
       Cross validation: CV_Generics_KD_MultiSucc.ipynb
       Train model: Generic_KD_MultiSucc.ipynb. 
-  Model saved and named: KD_MultiSucc.h5. You can use KD_MultiSucc.h5 in the Model folder for predicting and independent testing.
-  Independent test and predict files are located in the Code_KD_MultiSucc_Generic_predict_Species folder:
+  Model saved and named: KD_MultiSucc.h5. You can use KD_MultiSucc.h5 in the <Model> folder for predicting and independent testing.
+  Independent test and predict files are located in the <Code KD_MultiSucc_Generic predict Species> folder:
 
       No. Codes using KD_MultiSucc.h5 model to predict nine species	        Species
       1	  predict_H.Sapien_from_Generic.ipynb	                        H.sapiens
